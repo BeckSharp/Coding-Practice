@@ -1,0 +1,15 @@
+C:\Users\tombe\Desktop\Coding Practice\1. Bubble Sort Algorithm\bin\Debug\net7.0\1. Bubble Sort Algorithm.exe
+C:\Users\tombe\Desktop\Coding Practice\1. Bubble Sort Algorithm\bin\Debug\net7.0\1. Bubble Sort Algorithm.deps.json
+C:\Users\tombe\Desktop\Coding Practice\1. Bubble Sort Algorithm\bin\Debug\net7.0\1. Bubble Sort Algorithm.runtimeconfig.json
+C:\Users\tombe\Desktop\Coding Practice\1. Bubble Sort Algorithm\bin\Debug\net7.0\1. Bubble Sort Algorithm.dll
+C:\Users\tombe\Desktop\Coding Practice\1. Bubble Sort Algorithm\bin\Debug\net7.0\1. Bubble Sort Algorithm.pdb
+C:\Users\tombe\Desktop\Coding Practice\1. Bubble Sort Algorithm\obj\Debug\net7.0\1. Bubble Sort Algorithm.csproj.AssemblyReference.cache
+C:\Users\tombe\Desktop\Coding Practice\1. Bubble Sort Algorithm\obj\Debug\net7.0\1. Bubble Sort Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tombe\Desktop\Coding Practice\1. Bubble Sort Algorithm\obj\Debug\net7.0\1. Bubble Sort Algorithm.AssemblyInfoInputs.cache
+C:\Users\tombe\Desktop\Coding Practice\1. Bubble Sort Algorithm\obj\Debug\net7.0\1. Bubble Sort Algorithm.AssemblyInfo.cs
+C:\Users\tombe\Desktop\Coding Practice\1. Bubble Sort Algorithm\obj\Debug\net7.0\1. Bubble Sort Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\tombe\Desktop\Coding Practice\1. Bubble Sort Algorithm\obj\Debug\net7.0\1. Bubble Sort Algorithm.dll
+C:\Users\tombe\Desktop\Coding Practice\1. Bubble Sort Algorithm\obj\Debug\net7.0\refint\1. Bubble Sort Algorithm.dll
+C:\Users\tombe\Desktop\Coding Practice\1. Bubble Sort Algorithm\obj\Debug\net7.0\1. Bubble Sort Algorithm.pdb
+C:\Users\tombe\Desktop\Coding Practice\1. Bubble Sort Algorithm\obj\Debug\net7.0\1. Bubble Sort Algorithm.genruntimeconfig.cache
+C:\Users\tombe\Desktop\Coding Practice\1. Bubble Sort Algorithm\obj\Debug\net7.0\ref\1. Bubble Sort Algorithm.dll

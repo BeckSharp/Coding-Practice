@@ -1,0 +1,15 @@
+C:\Users\tombe\Desktop\Coding Practice\3. Selection Sort Algorithm\bin\Debug\net7.0\3. Selection Sort Algorithm.exe
+C:\Users\tombe\Desktop\Coding Practice\3. Selection Sort Algorithm\bin\Debug\net7.0\3. Selection Sort Algorithm.deps.json
+C:\Users\tombe\Desktop\Coding Practice\3. Selection Sort Algorithm\bin\Debug\net7.0\3. Selection Sort Algorithm.runtimeconfig.json
+C:\Users\tombe\Desktop\Coding Practice\3. Selection Sort Algorithm\bin\Debug\net7.0\3. Selection Sort Algorithm.dll
+C:\Users\tombe\Desktop\Coding Practice\3. Selection Sort Algorithm\bin\Debug\net7.0\3. Selection Sort Algorithm.pdb
+C:\Users\tombe\Desktop\Coding Practice\3. Selection Sort Algorithm\obj\Debug\net7.0\3. Selection Sort Algorithm.csproj.AssemblyReference.cache
+C:\Users\tombe\Desktop\Coding Practice\3. Selection Sort Algorithm\obj\Debug\net7.0\3. Selection Sort Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tombe\Desktop\Coding Practice\3. Selection Sort Algorithm\obj\Debug\net7.0\3. Selection Sort Algorithm.AssemblyInfoInputs.cache
+C:\Users\tombe\Desktop\Coding Practice\3. Selection Sort Algorithm\obj\Debug\net7.0\3. Selection Sort Algorithm.AssemblyInfo.cs
+C:\Users\tombe\Desktop\Coding Practice\3. Selection Sort Algorithm\obj\Debug\net7.0\3. Selection Sort Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\tombe\Desktop\Coding Practice\3. Selection Sort Algorithm\obj\Debug\net7.0\3. Selection Sort Algorithm.dll
+C:\Users\tombe\Desktop\Coding Practice\3. Selection Sort Algorithm\obj\Debug\net7.0\refint\3. Selection Sort Algorithm.dll
+C:\Users\tombe\Desktop\Coding Practice\3. Selection Sort Algorithm\obj\Debug\net7.0\3. Selection Sort Algorithm.pdb
+C:\Users\tombe\Desktop\Coding Practice\3. Selection Sort Algorithm\obj\Debug\net7.0\3. Selection Sort Algorithm.genruntimeconfig.cache
+C:\Users\tombe\Desktop\Coding Practice\3. Selection Sort Algorithm\obj\Debug\net7.0\ref\3. Selection Sort Algorithm.dll

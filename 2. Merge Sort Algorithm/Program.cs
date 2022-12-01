@@ -15,8 +15,6 @@ namespace MergeSortAlgorithm
 
         static int[] mergeSort(int[] data) 
         {
-            int[] result = new int[data.Length];
-
             if (data.Length <= 1) { return data; }
 
             int midIndex = (data.Length / 2);
@@ -41,7 +39,7 @@ namespace MergeSortAlgorithm
             left = mergeSort(left);
             right = mergeSort(right);
 
-            result = merge(left, right);
+            int[] result = merge(left, right);
 
             return result;
         }
@@ -53,35 +51,33 @@ namespace MergeSortAlgorithm
 
             int indexLeft = 0, indexRight = 0, indexResult = 0;
 
-            while (indexLeft < left.Length || indexRight < right.Length)
+            while ((indexLeft < left.Length) || (indexRight < right.Length))
             {
-                if (indexLeft < left.Length && indexRight < right.Length)
+                if ((indexLeft < left.Length) && (indexRight < right.Length))
                 {
                     if (left[indexLeft] <= right[indexRight])
                     {
                         result[indexResult] = left[indexLeft];
                         indexLeft++;
-                        indexResult++;
                     }
                     else
                     {
                         result[indexResult] = right[indexRight];
-                        indexRight++;
-                        indexResult++;
+                        indexRight++; 
                     }
                 }
                 else if (indexLeft < left.Length)
                 {
                     result[indexResult] = left[indexLeft];
                     indexLeft++;
-                    indexResult++;
                 }
-                else if (indexRight < right.Length)
+                else
                 {
                     result[indexResult] = right[indexRight];
                     indexRight++;
-                    indexResult++;
                 }
+
+                indexResult++;
             }
 
             return result;

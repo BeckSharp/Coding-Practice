@@ -15,6 +15,23 @@ namespace SelectionSortAlgorithm // Note: actual namespace depends on the projec
 
         static int[] selectionSort(int[] data) 
         {
+            int indexOfSmallest = 0;
+
+            for (int i = 0; i < data.Length; i++)
+            {
+                indexOfSmallest = i;
+
+                for (int j = i + 1; j < data.Length; j++)
+                {
+                    if (data[j] < data[indexOfSmallest]) {
+                        indexOfSmallest = j;
+                    }
+                }
+
+                int temp = data[i];
+                data[i] = data[indexOfSmallest];
+                data[indexOfSmallest] = temp;
+            }
 
             return data;
         }

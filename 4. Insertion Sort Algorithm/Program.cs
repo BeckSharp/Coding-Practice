@@ -15,6 +15,20 @@ namespace InsertionSortAlgorithm
 
         static int[] insertionSort(int[] data) 
         {
+            int index;
+            for (int i = 0; i < (data.Length - 1); i++)
+            {
+                index = i;
+
+                while ((index >= 0) && (data[index + 1] < data[index]))
+                {
+                    int temp = data[index];
+                    data[index] = data[index + 1];
+                    data[index + 1] = temp;
+
+                    index--;
+                }
+            }
 
             return data;
         }
